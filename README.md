@@ -60,7 +60,7 @@ README.md
 
 ## Live Demo
 
-[View My Portfolio](https://portfolio-logandeveloper.firebaseapp.com/)
+[View My Portfolio](https://frameworks-js-project-gabrielportfoli.netlify.app/)
 
 ---
 
